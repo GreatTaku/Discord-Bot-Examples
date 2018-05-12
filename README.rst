@@ -75,10 +75,17 @@ After you chose the version you want to use, go to the directory in this GitHub 
 The rest of the dependencies installation tutorial will be in the README.rtf of that directory.
  
 Writing a bot script with Python
---------------------------------
+================================
 
 See introduction.py in the other directories.
  
+Run examples from DBE
+=====================
+
+ 1. Download https://github.com/GreatTaku/DiscordBotExamples/archive/master.zip and unzip
+ 2. fill in your bot token in the file you want to run
+ 2. ``python DiscordBotExamples/<rewrite or async>/<filename>.py`` (replace things in <>)
+ 3. Voila!
  
  
 :sub:`Discord Bot Examples (DBE) is not affliated in any way with the discord.py library or the development of discord.py.`
