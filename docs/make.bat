@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=.
 set BUILDDIR=_build
-set SPHINXPROJ=DiscordpyExamples
+set SPHINXPROJ=DiscordBotExamples
 
 if "%1" == "" goto help
 
