@@ -81,9 +81,11 @@ Run examples from DBE
 
  1. Download https://github.com/GreatTaku/DiscordBotExamples/archive/master.zip and unzip
  2. fill in your bot token in the file you want to run
- 3. ``python DiscordBotExamples/<rewrite or async>/<filename>.py`` (replace things in <>)
- 4. Voila!
+ 3. ``python3 DiscordBotExamples/<rewrite or async>/<filename>.py`` (replace things in <>)
+ 4. For Windows (if ``python3`` not in ``PATH``): ``py -3 DiscordBotExamples/<rewrite or async>/<filename>.py``
+ 5. Voila!
  
+
  
 :sub:`Discord Bot Examples (DBE) is not affliated in any way with the discord.py library or the development of discord.py.`
 :sub:`DBE is an example/turtorial repository developed by Taku. Read the LICENSE file for more information.`
