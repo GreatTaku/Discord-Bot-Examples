@@ -31,11 +31,8 @@ Purposes
  
  Continue to Fist Step when you're ready to begin.
  
-First Step
-==========
- 
 Creating a bot account
-----------------------
+======================
  
  1.  Go to `Discord Developer Page <https://discordapp.com/developers/>`_ and 
      login or register an Discord User Account (you can loging with your personal discord account)
@@ -51,17 +48,17 @@ Creating a bot account
  11. You're done at creating the bot!
  
 Installing Python and dependencies
-----------------------------------
+==================================
 
 Installing Python
-^^^^^^^^^^^^^^^^^
+-----------------
 
  1. Go to the `Python Download Page <https://www.python.org/downloads/>`_ and download a version of Python 3
  2. Follow the installation setup (if you're on Windows, check "add python to PATH" in the setup script)
  3. Python is now installed on your system
  
 Installing dependencies
-^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
 
 Choose a version of discord.py, there are currently 2 major versions, rewrite (v1.0) and async (v0.16.x).
 
