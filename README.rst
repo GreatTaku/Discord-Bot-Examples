@@ -37,17 +37,47 @@ First Step
 Creating a bot account
 ----------------------
  
- 1. Go to `Discord Developer Page <https://discordapp.com/developers/>`_ and 
-    login or register an Discord User Account (you can loging with your personal discord account)
- 2. Go to `My Apps <https://discordapp.com/developers/applications/me>`_
- 3. Click on `New App <https://discordapp.com/developers/applications/me/create>`_
- 4. Fill in "App Name" with your bot's name
- 5. Fill in the optional "App Description" with the description and upload a bot avatar for "App Icon"
- 6. Click on "Create App" (Note: All previously added details are changable)
- 7. Go to `My Apps <https://discordapp.com/developers/applications/me>`_ and select the bot you just created
- 8. Scroll down to the "Bot" section, click "Create a Bot User", and conform your choice ("click Yes, do it!")
+ 1.  Go to `Discord Developer Page <https://discordapp.com/developers/>`_ and 
+     login or register an Discord User Account (you can loging with your personal discord account)
+ 2.  Go to `My Apps <https://discordapp.com/developers/applications/me>`_
+ 3.  Click on `New App <https://discordapp.com/developers/applications/me/create>`_
+ 4.  Fill in "App Name" with your bot's name (this will be your bot name, it cannot be changed)
+ 5.  Fill in the optional "App Description" with the description and upload a bot avatar for "App Icon"
+ 6.  Click on "Create App" (note: All previously added details are changable)
+ 7.  Go to `My Apps <https://discordapp.com/developers/applications/me>`_ and select the bot you just created
+ 8.  Scroll down to the "Bot" section, click "Create a Bot User", and conform your choice ("click Yes, do it!")
+ 9.  Click on the check mark for "Public Bot"
+ 10. Click on "Token: *click to reveal*", keep note of the generated token (**DO NOT SHARE THE TOKEN WITH ANYONE**)
+ 11. You're done at creating the bot!
  
+Installing Python and dependencies
+----------------------------------
+
+Installing Python
+^^^^^^^^^^^^^^^^^
+
+ 1. Go to the `Python Download Page <https://www.python.org/downloads/>`_ and download a version of Python 3
+ 2. Follow the installation setup (if you're on Windows, check "add python to PATH" in the setup script)
+ 3. Python is now installed on your system
  
+Installing dependencies
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Choose a version of discord.py, there are currently 2 major versions, rewrite (v1.0) and async (v0.16.x).
+
+ * Rewrite is a newly developed version of discord.py, it's fully usable but it's still in active development
+ * Async is the stable version of discord.py
+ * If you are uncertain about which version to choose, rewrite has more functionalities than async
+ 
+Rewrite and async is **not** compatible. 
+
+After you chose the version you want to use, go to the directory in this GitHub repo with the version name. 
+The rest of the dependencies installation tutorial will be in the README.rtf of that directory.
+ 
+Writing a bot script with Python
+--------------------------------
+
+See introduction.py in the other directories.
  
  
  
