@@ -1,5 +1,6 @@
-Discord Bot Examples (Python)
-=============================
+===================================
+Discord Bot Examples [DBE] (Python)
+===================================
 |status|
 
 |rtd_badge| |build| |license| |language| |release| 
