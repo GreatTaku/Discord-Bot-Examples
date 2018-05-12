@@ -34,10 +34,27 @@ Purposes
 First Step
 ==========
  
-Nothing here just yet...
+Creating a bot account
+----------------------
+ 
+ 1. Go to `Discord Developer Page <https://discordapp.com/developers/>`_ and 
+    login or register an Discord User Account (you can loging with your personal discord account)
+ 2. Go to `My Apps <https://discordapp.com/developers/applications/me>`_
+ 3. Click on `Mew App <https://discordapp.com/developers/applications/me/create>`_
+ 4. Fill in "App Name" with your bot's name
+ 5. Fill in the optional "App Description" with the description and upload a bot avatar for "App Icon"
+ 6. Click on "Create App" (Note: All previously added details are changable)
+ 7. Go to `My Apps <https://discordapp.com/developers/applications/me>`_ and select the bot you just created
+ 8. Scroll down to the "Bot" section, click "Create a Bot User", and conform your choice ("click Yes, do it!")
+ 
+ 
+ 
+ 
  
 :sub:`Discord Bot Examples (DBE) is not affliated in any way with the discord.py library or the development of discord.py.`
 :sub:`DBE is an example/turtorial repository developed by Taku. Read the LICENSE file for more information.`
+
+
 
 .. 
     links:
