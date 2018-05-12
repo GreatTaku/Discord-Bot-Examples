@@ -5,8 +5,9 @@ Discord Bot Examples [DBE] (Python)
 |status|
 
 |rtd_badge| |build| |license| |language| |release| 
-   
-   
+
+|important|
+
 DBE is a repository containing well-documented and easy-to-learn 
 examples involving the use of `discord.py`_ library.
 
@@ -30,9 +31,10 @@ Purposes
  
  Continue to Fist Step when you're ready to begin.
  
- First Step
- ==========
+First Step
+==========
  
+Nothing here just yet...
  
 :sub:`Discord Bot Examples (DBE) is not affliated in any way with the discord.py library or the development of discord.py.`
 :sub:`DBE is an example/turtorial repository developed by Taku. Read the LICENSE file for more information.`
@@ -45,6 +47,8 @@ Purposes
 ..
     badges links:
 
+.. |important| image:: https://img.shields.io/badge/WARNING-THIS_REPO_IS_STILL_UNDER_DEVELOPMENT--MOST_FEATURES_HAVE_NOT_BEEN_IMPLIMENTED_YET-red.svg?longCache=true&style=flat-square
+               :alt: WARNING: THIS REPO IS STILL UNDER DEVELOPMENT
 .. |status|    image:: https://img.shields.io/badge/status-underdevelopment-7bccc2.svg?longCache=true&style=for-the-badge
                :alt: Status: Underdevelopment
 .. |rtd_badge| image:: https://readthedocs.org/projects/dbe/badge/?version=latest
