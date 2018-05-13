@@ -46,7 +46,10 @@ Run DBE examples
 Exploring examples
 ==================
 
-The recommended order to learn examples are numbered below, starting with ``introduction.py``.
+The recommended order to learn examples are numbered below under *Examples Index*, starting with ``introduction.py``.
+If something hadn't be documented, it's probably documented in an example previous to it,
+I try not to be annoying so I only document the same thing **once**.
+
 If you only want to read the code and nothing else, there is a copy of every file without
 comments in the ``no_comments`` directory.
 
