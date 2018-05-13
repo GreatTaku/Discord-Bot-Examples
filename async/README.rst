@@ -19,12 +19,12 @@ Installing discord.py
 
 (Replace all ``<prefix>`` with the aforementioned prefix)
 
-First uninstall any previously installed version of discord.py. 
+First uninstall any previously installed version of `discord.py`_.
 In Terminal, CMD, or any command-line console, type in the following:
 
 ``<prefix> -m pip uninstall discord.py``
 
-And install the async version of discord.py:
+And install the async version of `discord.py`_:
 
 ``<prefix> -m pip install -U discord.py[voice]`` 
 
@@ -42,9 +42,16 @@ Run DBE examples
  4. In the console, type in: ``<prefix> DiscordBotExamples/async/<filename>.py``
  5. And... voila! Go to discord and see your bot in action
 
+==============
 Examples Index
 ==============
 
  1. ``introduction.py``
+
+..
+    links:
+
+.. _discord.py: https://discordpy.readthedocs.io/en/async
+
  
  

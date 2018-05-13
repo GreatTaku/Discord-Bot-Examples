@@ -19,7 +19,7 @@ Introduction
 
 Welcome to DBE! Have you ever wondered how to create your **own** discord bot? 
 Here you can learn to create a personalized discord bot from scratch. 
-DBE utilzes the programming language Python and the `discord.py`_ library
+DBE utilizes the programming language Python and the `discord.py`_ library
 
 Purposes
 --------
@@ -35,12 +35,12 @@ Creating a bot account
 ======================
  
  1.  Go to `Discord Developer Page <https://discordapp.com/developers/>`_ and 
-     login or register an Discord User Account (you can loging with your personal discord account)
+     login or register an Discord User Account (you can login with your personal discord account)
  2.  Go to `My Apps <https://discordapp.com/developers/applications/me>`_
  3.  Click on `New App <https://discordapp.com/developers/applications/me/create>`_
  4.  Fill in "App Name" with your bot's name (this will be your bot name, it cannot be changed)
  5.  Fill in the optional "App Description" with the description and upload a bot avatar for "App Icon"
- 6.  Click on "Create App" (note: All previously added details are changable)
+ 6.  Click on "Create App" (note: All previously added details are changeable)
  7.  Go to `My Apps <https://discordapp.com/developers/applications/me>`_ and select the bot you just created
  8.  Scroll down to the "Bot" section, click "Create a Bot User", and conform your choice ("click Yes, do it!")
  9.  Click on the check mark for "Public Bot"
@@ -71,22 +71,22 @@ Rewrite and async is **not** compatible.
 After you chose the version you want to use, go to the directory in this GitHub repo with the version name. 
 The rest of the dependencies installation tutorial will be in the README.rtf of that directory.
 
-Continuation
-============
+Further Reading
+===============
 
 The rest of the introduction will continue in the README.rst of the rewrite or async directories.
 
 
  
-:sub:`Discord Bot Examples (DBE) is not affliated in any way with the discord.py library or the development of discord.py.`
-:sub:`DBE is an example/turtorial repository developed by Taku. Read the LICENSE file for more information.`
+:sub:`Discord Bot Examples (DBE) is not affiliated in any way with the discord.py library or the development of discord.py.`
+:sub:`DBE is an example/tutorial repository developed by Taku. Read the LICENSE file for more information.`
 
 
 
 .. 
     links:
     
-.. _discord.py: https://discordpy.readthedocs.io/en/
+.. _discord.py: https://github.com/Rapptz/discord.py
 
 ..
     badges links:
