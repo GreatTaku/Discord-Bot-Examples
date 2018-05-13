@@ -17,10 +17,16 @@ Console Prefixes
 Installing discord.py
 ---------------------
 
+(Replace ``<prefix>`` with the aforementioned prefix)
+
+First uninstall any previously installed version of discord.py. 
 In Terminal, CMD, or any command-line console, type in the following:
 
+``<prefix> -m pip uninstall discord.py``
+
+And install the async version of discord.py:
+
 ``<prefix> -m pip install -U discord.py[voice]`` 
-(Replace ``<prefix>`` with the aforementioned prefix)
 
 If you're using a venv, don't forget to activate it!
 
