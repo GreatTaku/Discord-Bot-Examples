@@ -76,14 +76,14 @@ Writing a bot script with Python
 
 See introduction.py in the other directories.
  
-Run examples from DBE
-=====================
+Run DBE examples
+================
 
  1. Download https://github.com/GreatTaku/DiscordBotExamples/archive/master.zip and unzip
  2. fill in your bot token in the file you want to run
  3. ``python3 DiscordBotExamples/<rewrite or async>/<filename>.py`` (replace things in <>)
  4. For Windows (if ``python3`` not in ``PATH``): ``py -3 DiscordBotExamples/<rewrite or async>/<filename>.py``
- 5. Voila!
+ 5. And... voila!
  
 
  
