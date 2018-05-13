@@ -43,12 +43,18 @@ Run DBE examples
 ================
 
  1. Download https://github.com/GreatTaku/DiscordBotExamples/archive/master.zip and unzip
- 2. Go to the DiscordBotExamples/rewrite and find the example file you want to run
+ 2. Go to the ``DiscordBotExamples/rewrite`` and find the example file you want to run
  3. Open the file, replace "TOKEN" with your bot's token
  4. In the console, type in: ``<prefix> DiscordBotExamples/rewrite/<filename>.py``
  5. And... voila! Go to discord and see your bot in action
  6. To terminate your bot, press `ctrl-c` on your keyboard
 
+Exploring examples
+==================
+
+The recommended order to learn examples are numbered below, starting with ``introduction.py``.
+If you only want to read the code and nothing else, there is a copy of every file without
+comments in the ``no_comments`` directory.
 
 ==============
 Examples Index
