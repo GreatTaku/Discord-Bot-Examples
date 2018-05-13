@@ -41,6 +41,7 @@ Run DBE examples
  3. Open the file, replace "TOKEN" with your bot's token
  4. In the console, type in: ``<prefix> DiscordBotExamples/async/<filename>.py``
  5. And... voila! Go to discord and see your bot in action
+ 6. To terminate your bot, press `ctrl-c` on your keyboard
 
 ==============
 Examples Index
