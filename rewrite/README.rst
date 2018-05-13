@@ -33,6 +33,15 @@ If you're using a venv, don't forget to activate it!
 You're now ready to run some examples! To run any example in this repository, 
 see the README.rst in the top-level directory for directions.
 
+Run DBE examples
+================
+
+ 1. Download https://github.com/GreatTaku/DiscordBotExamples/archive/master.zip and unzip
+ 2. Go to the DiscordBotExamples/rewrite and find the example file you want to run
+ 3. Open the file, replace "TOKEN" with your bot's token
+ 4. In the console, type in: ``<prefix> DiscordBotExamples/rewrite/<filename>.py``
+ 5. And... voila! Go to discord and see your bot in action
+
 Examples Index
 ==============
 
