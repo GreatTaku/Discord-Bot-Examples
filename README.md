@@ -1,7 +1,7 @@
-# Discord Bot Examples (discord.py)
+# Discord Bot Examples [DBE] (discord.py)
 
-Provides in-depth examples of all type of
-problems a beginner or intermediate discord.py bot programmers might
+Provides in-depth examples for all type of
+problems beginner or intermediate discord.py bot programmers might
 need to overcome.
 
-For more details about this repository, see `README.rst`.
+For the complete details on this repository, please see `README.rst`.
