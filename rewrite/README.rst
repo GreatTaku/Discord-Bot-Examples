@@ -64,11 +64,13 @@ Examples Index
 ==============
 
  1. ``introduction.py``
+
     * exploration on basic bot structure of discord.py
     * preview on commands
     * preview on the ``on_ready`` event
 
  2. ``handle_events(1-3).py``
+
     * overview on most common discord.py events
     * documentation on the events
     * runnable example for experiencing the events
