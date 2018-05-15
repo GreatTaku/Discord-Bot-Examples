@@ -22,15 +22,21 @@ Installing discord.py
 First uninstall any previously installed version of `discord.py`_.
 In Terminal, CMD, or any command-line console, type in the following:
 
-``<prefix> -m pip uninstall discord.py``
+.. code-block:: Bash
+
+    <prefix> -m pip uninstall discord.py
 
 And install the rewrite version of `discord.py`_:
 
-``<prefix> -m pip install -U yarl==0.1.4 aiohttp==2.2.5 git+https://github.com/Rapptz/discord.py@rewrite#egg=discord.py[voice]``
+.. code-block:: Bash
+
+    <prefix> -m pip install -U yarl==0.1.4 aiohttp==2.2.5 git+https://github.com/Rapptz/discord.py@rewrite#egg=discord.py[voice]
 
 or (if you don't have ``git``):
 
-``<prefix> -m pip install -U yarl==0.1.4 aiohttp==2.2.5 https://github.com/Rapptz/discord.py/archive/rewrite.zip#egg=discord.py[voice]``
+.. code-block:: Bash
+   
+   <prefix> -m pip install -U yarl==0.1.4 aiohttp==2.2.5 https://github.com/Rapptz/discord.py/archive/rewrite.zip#egg=discord.py[voice]
 
 The ``yarl==0.1.4 aiohttp==2.2.5`` is necessary because `discord.py`_ rewrite's requirements.txt is broken.
 
