@@ -13,6 +13,7 @@ examples involving the use of `discord.py`_ library.
 
 A more organized version of the doc-strings can be found on the 
 DBE documentation: https://dbe.readthedocs.io/en/latest/
+(not ready yet!)
 
 Introduction
 ============
