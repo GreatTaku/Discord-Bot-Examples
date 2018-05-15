@@ -22,11 +22,15 @@ Installing discord.py
 First uninstall any previously installed version of `discord.py`_.
 In Terminal, CMD, or any command-line console, type in the following:
 
-``<prefix> -m pip uninstall discord.py``
+.. code-block:: Bash
+    
+    <prefix> -m pip uninstall discord.py
 
 And install the async version of `discord.py`_:
 
-``<prefix> -m pip install -U discord.py[voice]`` 
+.. code-block:: Bash
+    
+    <prefix> -m pip install -U discord.py[voice] 
 
 If you're using a venv, don't forget to activate it!
 
