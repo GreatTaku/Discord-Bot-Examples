@@ -69,12 +69,12 @@ Choose a version of discord.py, there are currently 2 major versions, rewrite (v
 Rewrite and async is **not** compatible. 
 
 After you chose the version you want to use, go to the directory in this GitHub repo with the version name. 
-The rest of the dependencies installation tutorial will be in the README.rtf of that directory.
+The rest of the dependencies installation tutorial will be in the ``README.rtf`` of that directory.
 
 Further Reading
 ===============
 
-The rest of the introduction will continue in the README.rst of the rewrite or async directories.
+The rest of the introduction will continue in the ``README.rst`` of the rewrite or async directories.
 
 
  
