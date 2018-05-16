@@ -25,7 +25,7 @@ copyright = '2018, Taku'
 author = 'Taku'
 
 # The short X.Y version
-version = '0.1'
+version = '0.1.1a'
 # The full version, including alpha/beta/rc tags
 release = version
 
