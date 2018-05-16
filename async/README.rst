@@ -61,7 +61,7 @@ comments in the ``no_comments`` directory.
 Examples Index
 ==============
 
-1. ``introduction.py``
+ 1. ``introduction.py``
 
     * exploration on basic bot structure of discord.py
     * preview on commands
@@ -74,6 +74,12 @@ Examples Index
     * runnable example for experiencing the events
     * (because there's so many events, I split them into two separate files)
     * a few events will be explained again in future examples
+
+ 3. ``on_message.py``
+
+    * an example of on_message event
+    * shows that the bot can be solely programmed with on_message
+
 ..
     links:
 

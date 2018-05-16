@@ -83,6 +83,11 @@ Examples Index
     * (because there's so many events, I split them into three separate files)
     * a few events will be explained again in future examples
 
+ 3. ``on_message.py``
+
+    * an example of on_message event
+    * shows that the bot can be solely programmed with on_message
+
  ..
     links:
 
