@@ -40,10 +40,10 @@ see the README.rst in the top-level directory for directions.
 Run DBE examples
 ================
 
- 1. Download https://github.com/GreatTaku/DiscordBotExamples/archive/master.zip and unzip
- 2. Go to the ``DiscordBotExamples/async`` and find the example file you want to run
+ 1. Download https://github.com/GreatTaku/Discord-Bot-Examples/archive/master.zip and unzip
+ 2. Go to the ``Discord-Bot-Examples/async`` and find the example file you want to run
  3. Open the file, replace "TOKEN" with your bot's token
- 4. In the console, type in: ``<prefix> DiscordBotExamples/async/<filename>.py``
+ 4. In the console, type in: ``<prefix> Discord-Bot-Examples/async/<filename>.py``
  5. And... voila! Go to discord and see your bot in action
  6. To terminate your bot, press `ctrl-c` on your keyboard
 
