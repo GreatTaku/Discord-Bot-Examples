@@ -2,14 +2,14 @@
 Discord Bot Examples [DBE] (Python)
 ===================================
 
+Discord Bot Examples (DBE) is a repository containing well-documented and easy-to-learn 
+examples involving the use of `discord.py`_ library.
+
 |status|
 
 |rtd_badge| |build| |license| |language| |release| 
 
 |important|
-
-Discord Bot Examples (DBE) is a repository containing well-documented and easy-to-learn 
-examples involving the use of `discord.py`_ library.
 
 A more organized version of the doc-strings can be found on the 
 DBE documentation: https://dbe.readthedocs.io/en/latest/
