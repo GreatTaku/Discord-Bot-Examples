@@ -65,6 +65,27 @@ I try not to be annoying so I only document the same thing **once**.
 If you only want to read the code and nothing else, there is a copy of every file without
 comments in the ``no_comments`` directory.
 
+======
+Notes:
+======
+
+.. code-block:: python3
+
+    client = discord.Client()
+
+is the base bot instance, in `discord.py`_, the aforementioned can be used to run both
+bot accounts and user accounts.
+
+.. code-block:: python3
+
+    bot = commands.Bot("$")
+
+is a *subclass* of ``discord.Client``, it inherits all of its attributes and methods with the addition
+of commands support. The first positional argument ('$') is the command prefix for the bot.
+
+In the examples provided in this repository, both of the client types would be used depending the purpose
+that the example is trying to demonstrate. When writing your own code, do not include both in one file.
+
 ==============
 Examples Index
 ==============
