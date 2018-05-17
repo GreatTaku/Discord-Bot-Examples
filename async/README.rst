@@ -99,7 +99,7 @@ Examples Index
  3. ``on_message.py``
 
     * an example of on_message event
-    * shows that the bot can be solely programmed with on_message
+    * shows that the bot can be solely programmed with ``on_message``
 
 ..
     links:
