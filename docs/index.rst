@@ -9,19 +9,23 @@ Discord Bot Examples Explanations
 
 A repository containing well-documented and easy-to-learn examples involving the use of Discord.py library.
 
+..
+   Branch Sub Versions
+   ===================
+   .. toctree::
+       :maxdepth: 2
 
-Branch Sub Versions
-===================
-.. toctree::
-    :maxdepth: 2
-
-    async
-    rewrite
+       async
+       rewrite
 
 
-Indices and tables
-==================
+   Indices and tables
+   ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`
+
+The documentation for RTD has not been created yet. But you
+can start reading the examples here: 
+https://github.com/GreatTaku/Discord-Bot-Examples/blob/master/README.rst
